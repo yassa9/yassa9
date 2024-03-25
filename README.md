@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="460" src="[https://avatars.githubusercontent.com/u/69548206?v=4](https://i.imgur.com/ChdOIwW.jpg)"  />
+  <img height="200" src="https://i.imgur.com/ChdOIwW.jpg"  />
 </div>
 
 ###
@@ -16,14 +16,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yassa9.yassa9&"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h3 align="center">👩‍💻  YASSA</h3>
 
 ###
@@ -31,6 +23,14 @@
 <br clear="both">
 
 <p align="center">🖥️Major: Computer & Systems Eng. <br>⚡Minor: Electrical Eng. <br>📸👁️Specialization: Image Processing & CV <br>🤖Interests: ML, DL, CV <br>Hobbies: Linux 🐧- Automation Scripts 📜- Quantum Computing<br>📚Reading: "Deep Learning" by Christopher Bishop</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yassa9.yassa9&"  />
+</div>
 
 ###
 
