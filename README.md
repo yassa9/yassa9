@@ -1,7 +1,6 @@
 <div align="center">
   <img height="460" src="https://avatars.githubusercontent.com/u/69548206?v=4"  />
 </div>
-![cv_img](https://github.com/yassa9/yassa9/assets/69548206/99f0b078-3eec-41db-8640-f2633787f575)
 
 ###
 
