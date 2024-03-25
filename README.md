@@ -2,9 +2,11 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgur.com/ChdOIwW.jpg"  />
+<img align="right" height="300" src="https://i.imgur.com/ChdOIwW.jpg"  />
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yassa9/" target="_blank">
@@ -14,15 +16,21 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yassa9.yassa9&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MateBerg.MateBerg&"  />
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  YASSA</h3>
+<br clear="both">
+
+<h3 align="center">👩‍💻  YASSA</h3>
 
 ###
+
+<br clear="both">
 
 <p align="center">🖥️Major: Computer & Systems Eng. <br>⚡Minor: Electrical Eng. <br>📸👁️Specialization: Image Processing & CV <br>🤖Interests: ML, DL, CV <br>Hobbies: Linux 🐧- Automation Scripts 📜- Quantum Computing<br>📚Reading: "Deep Learning" by Christopher Bishop</p>
 
@@ -61,8 +69,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassa9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yassa9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateBerg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MateBerg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
