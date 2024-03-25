@@ -1,8 +1,6 @@
-<img align="left" height="460" src="https://avatars.githubusercontent.com/u/69548206?v=4"  />
-
-###
-
-<img align="right" height="209" src="https://i.imgur.com/ChdOIwW.jpg"  />
+<div align="center">
+  <img height="460" src="https://avatars.githubusercontent.com/u/69548206?v=4"  />
+</div>
 
 ###
 
