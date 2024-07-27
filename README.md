@@ -6,21 +6,22 @@
 
 <br clear="both">
 
-<h3 align="center">👩‍💻  YASSA</h3>
+<h1 align="center">👩‍💻  YASSA</h1> <!-- Changed from h3 to h1 for larger text -->
 
 ###
 
 <br clear="both">
 
-<p align="center">🖥️Major: Computer & Systems Eng. <br>⚡Minor: Electrical Eng. <br>📸👁️Specialization: Image Processing & CV <br>🤖Interests: ML, DL, CV <br>Hobbies: Linux 🐧- Automation Scripts 📜- Quantum Computing<br>📚Reading: "Deep Learning" by Christopher Bishop</p>
+<p align="center" style="font-size: 20px;">🖥️Major: Computer & Systems Eng. <br>⚡Minor: Electrical Eng. <br>📸👁️Specialization: Image Processing & CV <br>🤖Interests: ML, DL, CV <br>Hobbies: Linux 🐧- Automation Scripts 📜- Quantum Computing<br>📚Reading: "Deep Learning" by Christopher Bishop</p> <!-- Added style attribute for larger font size -->
 
 ###
 
 <br clear="both">
 
-<h3 align="center">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2> <!-- Changed from h3 to h2 for larger text -->
 
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
