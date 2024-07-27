@@ -6,19 +6,19 @@
 
 <br clear="both">
 
-<h1 align="center">👩‍💻  YASSA</h1> <!-- Changed from h3 to h1 for larger text -->
+<h1 align="center">👩‍💻  YASSA SFEN </h1> 
 
 ###
 
 <br clear="both">
 
-<p align="center" style="font-size: 20px;">🖥️Major: Computer & Systems Eng. <br>⚡Minor: Electrical Eng. <br>📸👁️Specialization: Image Processing & CV <br>🤖Interests: ML, DL, CV <br>Hobbies: Linux 🐧- Automation Scripts 📜- Quantum Computing<br>📚Reading: "Deep Learning" by Christopher Bishop</p> <!-- Added style attribute for larger font size -->
+<h2 align="center" style="font-size: 46px;">🖥️ Major: Computer & Systems Eng. <br>⚡ Minor: Electrical Eng. <br>📸👁️ Specialization: Image Processing & CV <br>🤖 Interests: ML, DL, CV <br>Hobbies: Linux 🐧- Automation Scripts 📜- Quantum Computing<br>📚 Reading: "Deep Learning" by Christopher Bishop</h2> 
 
 ###
 
 <br clear="both">
 
-<h2 align="center">🛠 Language and tools</h2> <!-- Changed from h3 to h2 for larger text -->
+<h2 align="center">🛠 Language and tools</h2> 
 
 ###
 
