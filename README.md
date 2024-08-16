@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h3 align="center";">🖥️ Major: Computer & Systems Engineering. <br>⚡ Minor: Electrical Eng. <br> 🤖 Interests: ML, DL, CV & Img Processing <br> I use Arch Linux + NeoVim as my Setup <br> Hobbies: Linux 🐧- Automation Scripts 📜- Quantum Computing <br> 📚 Last Book Finished: "Deep Learning for Vision Systems" by Elgendy <br> 📚 Reading Nowadays: "Deep Learning - Foundations and Concepts" by Christopher Bishop</h3> 
+<h3 align="center";">🖥️ Major: Computer & Systems Engineering. <br>⚡ Minor: Electrical Eng. <br> 🤖 Interests: ML, DL, CV & Img Processing <br> I use Linux Arch 🐧 + NeoVim as my Setup <br> Hobbies: Automation Scripts 📜- Quantum Computing <br> 📚 Last Book Finished: "Deep Learning for Vision Systems" by Elgendy <br> 📚 Reading Nowadays: "Deep Learning - Foundations and Concepts" by Christopher Bishop</h3> 
 
 ###
 
