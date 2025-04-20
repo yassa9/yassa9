@@ -1,12 +1,16 @@
-<img
-  src="https://i.imgur.com/4CxmYJ7.png"
-  alt="avatar"
-  width="150"
-  height="150"
-  style="border-radius:50%; float:right; margin:0 0 10px 12px;"
-/>
-
+<div align="center">
+  <img
+    src="https://i.imgur.com/4CxmYJ7.png"
+    alt="avatar"
+    width="150"
+    height="150"
+    style="border-radius:50%; float:right; margin:10 0 10px 12px;"
+  />
+  
 # Yassa Sfen
+
+</div>
+
 
 ---
 
@@ -27,11 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" style="margin:0 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin:0 12px;" />
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" style="margin:0 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
-  
 </div>
 
 ---
