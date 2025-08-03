@@ -8,6 +8,11 @@
   />
   
 # Yassa Sfen
+<b>Peak Rank #1</b><br/>
+<b>
+  <img src="https://tensara.org/logo_no_bg.png" alt="Tensara Logo" height="20" style="vertical-align:middle; margin-right:4px;" />
+  <a href="https://tensara.org/leaderboard" target="_blank" style="text-decoration:none; color:inherit;"> TENSARA</a> GPU Competitive Programming
+</b>
 
 </div>
 
@@ -17,7 +22,7 @@
 **Research Intern**: Medical imaging @ ASURT; 
 **Grad Project**: mentored by Rology  
 
-**Interests**: Scientific DL & CV (RL & LLMs, 3D reconstruction)  
+**Interests**: CUDA, HPC, Scientific DL & CV (LLMs, 3D reconstruction)  
 **Setup**: Linux Void 🐧 + dwm + vim
 
 ---
