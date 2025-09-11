@@ -8,7 +8,6 @@
   />
   
 # Yassa Sfen
-yassa.sfen@gmail.com
 <b>Peak Rank #1</b><br/>
 <b>
   <img src="https://tensara.org/logo_no_bg.png" alt="Tensara Logo" height="20" style="vertical-align:middle; margin-right:4px;" />
@@ -25,6 +24,12 @@ yassa.sfen@gmail.com
 
 **Interests**: CUDA, HPC, Scientific DL & CV (LLMs, 3D reconstruction)  
 **Setup**: Linux Void 🐧 + dwm + vim
+
+<div align="center">
+  
+<b>yassa.sfen@gmail.com</b><br/>
+
+</div>
 
 ---
 
