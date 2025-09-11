@@ -8,6 +8,7 @@
   />
   
 # Yassa Sfen
+yassa.sfen@gmail.com
 <b>Peak Rank #1</b><br/>
 <b>
   <img src="https://tensara.org/logo_no_bg.png" alt="Tensara Logo" height="20" style="vertical-align:middle; margin-right:4px;" />
