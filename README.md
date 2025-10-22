@@ -2,8 +2,8 @@
   <img
     src="https://i.imgur.com/4CxmYJ7.png"
     alt="avatar"
-    width="150"
-    height="150"
+    width="120"
+    height="120"
     style="border-radius:50%; float:right; margin:10 0 10px 12px;"
   />
   
@@ -19,7 +19,11 @@
 ---
 
 **Computer & Systems Engineering** (Minor: Electrical Engineering)  
-**Research Intern**: Medical imaging @ ASURT; 
+
+**Vision & ML Intern**: SmartEye
+
+**Research Intern**: Medical imaging @ ASURT
+
 **Grad Project**: mentored by Rology  
 
 **Interests**: CUDA, HPC, Scientific DL & CV (LLMs, 3D reconstruction)  
