@@ -1,11 +1,11 @@
 <div align="center">
-  <img
+  <!-- <img
     src="https://i.imgur.com/4CxmYJ7.png"
     alt="avatar"
     width="120"
     height="120"
     style="border-radius:50%; float:right; margin:10 0 10px 12px;"
-  />
+  /> -->
   
 # Yassa Sfen
 <b>Peak Rank #1</b><br/>
