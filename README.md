@@ -27,7 +27,7 @@
 **Grad Project**: mentored by Rology  
 
 **Interests**: CUDA, HPC, Scientific DL & CV (LLMs, 3D reconstruction)  
-**Setup**: Linux Void 🐧 + dwm + vim
+**Setup**: Linux Void + X11 + dwm + st + nvim
 
 <div align="center">
   
